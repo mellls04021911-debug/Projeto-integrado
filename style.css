@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(11, 11, 86);
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: aliceblue;
+}
+
+h5{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+h3{
+    color: aliceblue;
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+}
+
+div{
+    color: aliceblue;
+}
+
+ul{
+    color: aliceblue;
+}
